@@ -3,6 +3,7 @@
     "description": "Display the current year in your blade views",
     "keywords": [
         "lloople",
+        "laravel blade",
         "laravel-blade-current-year"
     ],
     "homepage": "https://github.com/lloople/laravel-blade-current-year",
@@ -20,7 +21,7 @@
         "illuminate/support": "5.8.*|6.*"
     },
     "require-dev": {
-        "orchestra/testbench": "3.8.*",
+        "orchestra/testbench": "3.8.*|4.*",
         "phpunit/phpunit": "^7.0|^8.0"
     },
     "autoload": {

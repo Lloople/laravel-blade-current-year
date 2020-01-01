@@ -1,9 +1,8 @@
 # Laravel Blade Current Year
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/lloople/laravel-blade-current-year.svg?style=flat-square)](https://packagist.org/packages/lloople/laravel-blade-current-year)
-[![Build Status](https://img.shields.io/travis/lloople/laravel-blade-current-year/master.svg?style=flat-square)](https://travis-ci.org/lloople/laravel-blade-current-year)
-[![Quality Score](https://img.shields.io/scrutinizer/g/lloople/laravel-blade-current-year.svg?style=flat-square)](https://scrutinizer-ci.com/g/lloople/laravel-blade-current-year)
 [![Total Downloads](https://img.shields.io/packagist/dt/lloople/laravel-blade-current-year.svg?style=flat-square)](https://packagist.org/packages/lloople/laravel-blade-current-year)
+[![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/laravel)
 
 This package was made as a joke, more information here. You can use it to show the current copyright year
 on your footer.
@@ -46,6 +45,14 @@ If you discover any security related issues, please email d.lloople@icloud.com i
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## TREEWARE
+
+You're free to use this package, but if it makes it to your production environment I would highly appreciate you buying the world a tree.
+
+It’s now common knowledge that one of the best tools to tackle the climate crisis and keep our temperatures from rising above 1.5C is to plant trees. If you contribute to my forest you’ll be creating employment for local families and restoring wildlife habitats.
+
+You can buy trees at for Laravel forest here offset.earth/laravel
 
 ## Laravel Package Boilerplate
 
