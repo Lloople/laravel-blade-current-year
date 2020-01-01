@@ -7,6 +7,10 @@
 This package was made as a joke, more information here. You can use it to show the current copyright year
 on your footer.
 
+## Why?
+
+It all started with [this tweet](https://twitter.com/henrikemacedo/status/1212316420450799616) by [Henrique Macedo](https://twitter.com/henrikemacedo)
+
 ## Installation
 
 You can install the package via composer:
@@ -46,7 +50,7 @@ If you discover any security related issues, please email d.lloople@icloud.com i
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-## TREEWARE
+## Treeware
 
 You're free to use this package, but if it makes it to your production environment I would highly appreciate you buying the world a tree.
 
