@@ -1,30 +1,27 @@
-# Very short description of the package
+# Laravel Blade Current Year
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/lloople/blade-current-year.svg?style=flat-square)](https://packagist.org/packages/lloople/blade-current-year)
-[![Build Status](https://img.shields.io/travis/lloople/blade-current-year/master.svg?style=flat-square)](https://travis-ci.org/lloople/blade-current-year)
-[![Quality Score](https://img.shields.io/scrutinizer/g/lloople/blade-current-year.svg?style=flat-square)](https://scrutinizer-ci.com/g/lloople/blade-current-year)
-[![Total Downloads](https://img.shields.io/packagist/dt/lloople/blade-current-year.svg?style=flat-square)](https://packagist.org/packages/lloople/blade-current-year)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/lloople/laravel-blade-current-year.svg?style=flat-square)](https://packagist.org/packages/lloople/laravel-blade-current-year)
+[![Build Status](https://img.shields.io/travis/lloople/laravel-blade-current-year/master.svg?style=flat-square)](https://travis-ci.org/lloople/laravel-blade-current-year)
+[![Quality Score](https://img.shields.io/scrutinizer/g/lloople/laravel-blade-current-year.svg?style=flat-square)](https://scrutinizer-ci.com/g/lloople/laravel-blade-current-year)
+[![Total Downloads](https://img.shields.io/packagist/dt/lloople/laravel-blade-current-year.svg?style=flat-square)](https://packagist.org/packages/lloople/laravel-blade-current-year)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+This package was made as a joke, more information here. You can use it to show the current copyright year
+on your footer.
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require lloople/blade-current-year
+composer require lloople/laravel-blade-current-year
 ```
 
 ## Usage
 
-``` php
-// Usage description here
-```
+Use this blade directive on your views:
 
-### Testing
-
-``` bash
-composer test
+```php
+@currentYear
 ```
 
 ### Changelog
@@ -41,6 +38,8 @@ If you discover any security related issues, please email d.lloople@icloud.com i
 
 ## Credits
 
+- [Caneco](https://github.com/caneco)
+- [Marcel Pociot](https://github.com/mpociot)
 - [David Llop](https://github.com/lloople)
 - [All Contributors](../../contributors)
 

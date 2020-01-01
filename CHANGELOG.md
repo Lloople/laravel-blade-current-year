@@ -1,7 +1,7 @@
 # Changelog
 
-All notable changes to `blade-current-year` will be documented in this file
+All notable changes to `laravel-blade-current-year` will be documented in this file
 
-## 1.0.0 - 201X-XX-XX
+## 1.0.0 - 2020-01-01
 
-- initial release
+- Initial release
