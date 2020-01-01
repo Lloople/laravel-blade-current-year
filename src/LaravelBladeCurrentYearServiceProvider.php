@@ -10,7 +10,7 @@ class LaravelBladeCurrentYearServiceProvider extends ServiceProvider
     public function boot()
     {
         Blade::directive('currentYear', function () {
-            return "<?php echo date(‘Y’); ?>";
+            return "<?php echo date('Y'); ?>";
         });
     }
 
