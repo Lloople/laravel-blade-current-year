@@ -10,7 +10,7 @@ class DirectiveTest extends TestCase
     public function directive_returns_current_year()
     {
         $this->assertSame(
-            "<?php echo date('Y'); ?>", 
+            "<?php echo date('Y'); ?>",
             app('blade.compiler')->compileString('@currentYear')
         );
     }
@@ -20,6 +20,6 @@ class DirectiveTest extends TestCase
     {
         View::addLocation(__DIR__.'/stubs/views');
 
-        $this->assertEquals(date('Y'), view('directive')->render());
+        $this->assertSame(date('Y'), view('directive')->render());
     }
 }
